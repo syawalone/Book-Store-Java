@@ -8,4 +8,3 @@ This project demonstrates **Object-Oriented Programming (OOP)** concepts in Java
 - **BookStore** main class to display book details.
 - **Exception Handling** for null titles and invalid inputs.
 
-## 🗂 Project Structure
