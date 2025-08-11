@@ -1,2 +1,11 @@
-# Book-Store-Java
-Implemented a Java program to demonstrate object-oriented programming concepts. Includes: - Books base class with unimplemented methods - Fiction and NonFiction subclasses - BookStore main class for printing book details with exception handling
+# 📚 BookStore Java Program
+
+This project demonstrates **Object-Oriented Programming (OOP)** concepts in Java by implementing a simple bookstore application.
+
+## 📌 Features
+- **Books** abstract base class with `setPrice()` and `getPrice()` methods.
+- **Fiction** and **NonFiction** subclasses with specific pricing logic.
+- **BookStore** main class to display book details.
+- **Exception Handling** for null titles and invalid inputs.
+
+## 🗂 Project Structure
